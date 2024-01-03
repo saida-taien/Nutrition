@@ -1,0 +1,192 @@
+body
+{
+    width: 1000px;
+    background-color: rgb(248, 248, 227);
+}
+header
+{
+    background-image: url(Images/cv3.avif);
+    height: 793px;
+    width: 950px;
+    background-size: cover;
+    margin-left: 200px;
+    border-radius: 50px;
+}
+.cover h4
+{
+    padding-top: 250px;
+    margin-left: 500px;
+    font-style: italic;
+    color: rgba(230, 137, 137, 0.904);
+    font-size: 70px;
+    font-family:cursive;
+    text-shadow: 20px 20px 5px gray;
+    text-decoration:overline;
+}
+.cover h3
+{
+    margin-left: 500px;
+    text-decoration:overline;
+    color:rgba(228, 53, 82, 0.5);
+    font-size: 80px;
+    font-family:serif;
+}
+
+.HeadingPart
+{
+    margin-left: 250px;
+}
+.HeadingPart h1
+{
+    margin-left: 35px;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(41, 39, 39);
+}
+.HeadingPart h3
+{
+    margin-left: 35px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(54, 32, 32);
+    margin-right: 10px;
+}
+.Nutrition
+{
+    margin-left: 250px;
+}
+.protein
+{
+    display: flex;
+    border: 2px dashed rgb(75, 25, 25);
+    border-radius: 10px 40px;
+    background-color: rgb(230, 219, 221);
+    box-shadow: 10px 20px 5px rgb(128, 128, 128);
+}
+.protein p
+{
+    padding: 10px;
+    text-align: justify;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.protein img
+{
+    margin: 25px 25px;
+    border-radius: 10px 40px ;
+}
+.Nutrition h1 
+{
+    font: 25px;
+    color: darkslategrey;
+    font-weight: bold;
+    background-color: bisque;
+}
+.carbohydrates
+{
+    display: flex;
+    border: 2px dashed rgb(87, 75, 25);
+    border-radius: 10px 40px;
+    background-color: rgba(247, 236, 187, 0.692);
+    box-shadow: 10px 20px 5px rgb(128, 128, 128);
+}
+.carbohydrates p
+{
+    padding: 10px;
+    text-align: justify;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.carbohydrates img
+{
+    margin: 25px 25px;
+    border-radius: 10px 40px ;
+}
+.fats
+{
+    display: flex;
+    border: 2px dashed rgb(4, 44, 58);
+    border-radius: 10px 40px;
+    background-color: rgb(193, 192, 241);
+    box-shadow: 10px 20px 5px rgb(128, 128, 128);
+}
+.fats p
+{
+    padding: 10px;
+    text-align: justify;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.fats img
+{
+    margin: 25px 25px;
+    border-radius: 10px 40px ;
+}
+.vitamins
+{
+    display: flex;
+    border: 2px dashed rgb(38, 71, 40);
+    border-radius: 10px 40px;
+    background-color: rgb(216, 243, 213);
+    box-shadow: 10px 20px 5px rgb(128, 128, 128);
+}
+.vitamins p
+{
+    padding: 10px;
+    text-align: justify;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.vitamins img
+{
+    margin: 25px 25px;
+    border-radius: 10px 40px ;
+}
+.minerals
+{
+    display: flex;
+    border: 2px dashed rgb(88, 57, 57);
+    border-radius: 10px 40px;
+    background-color: rgba(218, 156, 167, 0.726);
+    box-shadow: 10px 20px 5px rgb(128, 128, 128);
+}
+.minerals p
+{
+    padding: 10px;
+    text-align: justify;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.minerals img
+{
+    margin: 25px 25px;
+    border-radius: 10px 40px ;
+}
+.water
+{
+    display: flex;
+    border: 2px dashed rgb(85, 104, 110);
+    border-radius: 10px 40px;
+    background-color: rgba(180, 243, 247, 0.418);
+    box-shadow: 10px 20px 5px rgb(128, 128, 128);
+}
+.water p
+{
+    padding: 10px;
+    text-align: justify;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.water img
+{
+    margin: 25px 25px;
+    border-radius: 10px 40px ;
+}
+footer
+{
+    background-color: rgb(248, 248, 227);;
+    height: 100px;
+}
+footer h4
+{
+    color: rgb(8, 7, 53);
+    text-align: center;
+    font-family: serif;
+    padding-top: 50px;
+    margin-left: 120px;
+}
